@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47cd5d8a-c3c4-4779-ad13-8fbc40e35bad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01-attack_yd_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuniu/Tuniu/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuniu/Tuniu/get_src_dst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuniu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tuniu/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/consumption_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/day_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/production_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/string_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/binnap_active_user_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/hash_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/redis--_mysql--_hash--_update_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/redis--_mysql--_hash_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/set_inter_weibo_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/01_music_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/02-dj_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/JWT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/REDEME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/flask_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/comments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/login_reglogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/m.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/5794.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/auicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/author.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/bi05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/bitbug_favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/category.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/commentPhoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/comments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/date.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/dsbz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/dzbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/newsbg03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/re_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/searchbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/toppic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/toppic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/v1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/zd01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/jquery.easyfader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/scrollReveal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/wangEditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/xcConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/change_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/gbook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/list_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/photo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/release.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/media/avatar/meinv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/login_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/test_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/text_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/0002_auto_20190731_1711.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/0002_userprofile_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/spider-7-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/01-jd-spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/02_js_spider2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/04_gov_selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/05_updateday06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/06_QQ_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/07_exec_js.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/08_baidu_translate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/shubiao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/translate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/01-urlopen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/02_Request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/02_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_consumer_urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_parse_baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/04_parse_quote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/04_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/05_baidu2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/05_baidu_tieba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/06_greed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/07_greed2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/08_homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/general_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/小彩旗.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第10页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第1页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第2页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第3页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第4页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第5页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第6页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第7页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第8页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第9页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/01_bitmap_active_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/01_group_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/02_hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/03_csv_eg1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/03_redis+mysql+hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/04_maoyan_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/04_redis+mysql+hash+update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/05_csv_execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/05_set_inter_weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_executemany.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_pymongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_sorted_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/07_maoyan_mongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/08_tiantang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/09_requests_get.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/10_requests_beu_girl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/11_lianjia_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/films.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/spider-day3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/005493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/00bcbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01140e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01930f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0323e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/03c23c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/04_baidu_image_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/073688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/07368d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0736c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/08ff0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/08ffd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/094a34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/094a97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/09aa22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/09aa3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0a4c8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0a4ccd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e913f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e9161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e91c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0f062f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0f066d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0fa28d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0fa2d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1028bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1028e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/112ae7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/116e7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/116e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/122fe7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/12ef16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/12efa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/16324f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/166111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/16d885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/175c9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/183049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1830d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/18e302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b244f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b624c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b62c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1ce5c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1ce5ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1e46ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f4458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f449d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f449e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f44be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f5833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f5892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f7a5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/237687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2376a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2376fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/238d3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/240838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24a8d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24fcb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24fcc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/257e12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/261020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa5e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa5fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2ab001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2cc84b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2da6d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2e95f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2ff8bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/30fd50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/30fdfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/311e57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330e5a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330e8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330efc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/33ae28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/34a42b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/354138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3541c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3568e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/389440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38945b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38b6e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38b6e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38fe5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/39bd7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d510e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d5149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d564f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3e5358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/43b5d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/448309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4483d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/44ad27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/452209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ade75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ade9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b0393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b03c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b03de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ca3dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4e5987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4e74b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/506bbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/506bc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/50b1c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/52d206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/547752.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/54775e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/584b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/584b5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/5cb793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/5cb7fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/60af0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/60af7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/66332a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/6ddb2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/6e3992.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/73e7b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/77e83a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/77e8e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ae23a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ae28e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7bf643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e8901.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e895e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e89f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff9c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff9c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/814d1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/814dd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/865d38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/890bf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8b29e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8bfb2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8bfb82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8de954.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8de993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8f6516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8f65f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8fc15b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/90eb50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/94272a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/95f721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/97c50f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/99f393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/99f3e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/9bbb1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a12be7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a28701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a287f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a91133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ad854f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/b17161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/b30915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4ed8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26a09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26a8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26af2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c4134b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c413b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c66c06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c757ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cbd58d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ce2de7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cebf3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cebfd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cf50f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c3b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d3455e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d345d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d3c9a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d4e652.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d6fab9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d78ed1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d8432c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d9caae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/db3d49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/db3df1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dc5549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd6f7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd9854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd98d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd98fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/de6660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/df7256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/df72fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/e99cc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/eab875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecc054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecce0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecce2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ed04f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f001bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f2b47c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3b33b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3b3c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3d78f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f43b8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f48640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f4f4b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f57895.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f57897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f8ac5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f9a122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa352b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa35de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa40c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa608f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fac7b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fbd91b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fbd952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fc2e0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fc2ee7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fd2c96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fd2ce7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fe7fa0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/lianjia_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/xlml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/spider-day4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/001." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/02_test_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/03_proxyip_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/spider-day5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/02_gov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/03_douban_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/05_xiaomi_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/formdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/youdao_spider.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="30" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/spiders/tuniu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1896">
+              <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tuniu/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/spiders/config.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/items.py" />
+        <option value="$PROJECT_DIR$/01-attack_yd_app.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/run.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/config.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/get_src_dst.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/settings.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/pipelines.py" />
+        <option value="$PROJECT_DIR$/Tuniu/run.py" />
+        <option value="$PROJECT_DIR$/Tuniu/Tuniu/spiders/tuniu.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1228" />
+    <option name="height" value="422" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spider-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-11" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-11" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuniu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-11" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="Tuniu" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tuniu/Tuniu" />
+      <recent name="$PROJECT_DIR$/Tuniu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="01-attack_yd_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-attack_yd_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_src_dst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuniu/Tuniu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuniu/Tuniu/get_src_dst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuniu/Tuniu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuniu/Tuniu/items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuniu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuniu/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.items" />
+        <item itemvalue="Python.get_src_dst" />
+        <item itemvalue="Python.01-attack_yd_app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47cd5d8a-c3c4-4779-ad13-8fbc40e35bad" name="Default Changelist" comment="" />
+      <created>1566435846728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566435846728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1675315" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" weight="0.3283914" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6048387" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="DB Browser" order="0" weight="0.3283914" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.18828762" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.9166667" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-attack_yd_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/scrapy/core/engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.6/dist-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="662" column="57" lean-forward="true" selection-start-line="662" selection-start-column="57" selection-end-line="662" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="497" selection-start-column="497" selection-end-column="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/get_src_dst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="30" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/spiders/tuniu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="79" column="48" lean-forward="true" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tuniu/Tuniu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

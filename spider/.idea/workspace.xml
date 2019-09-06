@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a8a008a-c550-41dd-8e20-2c9bba19e863" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AID1904_Spider_Data.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-01-Redis的特点-五大数据类型/consumption_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-01-Redis的特点-五大数据类型/day_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-01-Redis的特点-五大数据类型/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-01-Redis的特点-五大数据类型/production_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-01-Redis的特点-五大数据类型/string_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-02-五大数据类型及应用场景-位图操作-哈希（散列）类型-集合类型/binnap_active_user_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-02-五大数据类型及应用场景-位图操作-哈希（散列）类型-集合类型/hash_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-02-五大数据类型及应用场景-位图操作-哈希（散列）类型-集合类型/redis--_mysql--_hash--_update_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-02-五大数据类型及应用场景-位图操作-哈希（散列）类型-集合类型/redis--_mysql--_hash_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-02-五大数据类型及应用场景-位图操作-哈希（散列）类型-集合类型/set_inter_weibo_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/01_music_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/02-dj_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/JWT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/btoken/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/REDEME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/flask_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/comments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/login_reglogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/css/m.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/5794.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/auicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/author.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/b04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/b05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/bi05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/bitbug_favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/category.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/commentPhoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/comments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/date.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/dsbz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/dzbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/newsbg03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/page_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/page_bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/page_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/page_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/re_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/searchbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/toppic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/toppic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/v1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/images/zd01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/jquery.easyfader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/scrollReveal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/wangEditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/static/js/xcConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/change_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/gbook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/list_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/photo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/release.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/client/templates/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/media/avatar/meinv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/message/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/tools/login_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/tools/test_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/tools/text_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/migrations/0002_auto_20190731_1711.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/topic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/migrations/0002_userprofile_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-3-有序集合的交集与并集-数据持久化-Redis主从复制-分布式锁-博客项目解决高并发问题/blog/user/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-4-分布式锁实现原理-批量操作-redis中的持久化方案/redis_day04_note_to_students.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/consumption_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/day_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/production_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day01/string_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/binnap_active_user_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/hash_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/redis--_mysql--_hash--_update_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/redis--_mysql--_hash_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day02/set_inter_weibo_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/01_music_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/02-dj_rank.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/blog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/JWT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/blog/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/btoken/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/REDEME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/flask_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/comments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/login_reglogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/css/m.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/5794.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/auicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/author.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/b05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/banner03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/bi05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/bitbug_favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/category.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/commentPhoto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/comments.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/date.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/dsbz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/dzbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/newsbg03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_bg1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/page_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/re_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/searchbg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/time.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/toppic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/toppic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/v1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/images/zd01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/jquery.easyfader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/scrollReveal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/wangEditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/static/js/xcConfirm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/change_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/gbook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/list_bak.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/photo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/release.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/client/templates/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/media/avatar/meinv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/message/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/login_check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/test_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/tools/text_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/0002_auto_20190731_1711.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/topic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/0002_userprofile_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis-day3/blog/user/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/01-urlopen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_Request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/03_consumer_urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/03_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/03_parse_baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/03_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/04_parse_quote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/04_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/05_baidu2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/05_baidu_tieba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/06_greed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/07_greed2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/08_homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/general_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/小彩旗.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第10页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第1页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第2页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第3页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第4页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第5页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第6页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第7页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第8页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/第9页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/01_bitmap_active_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/01_group_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/02_hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/03_csv_eg1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/03_redis+mysql+hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/04_maoyan_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/04_redis+mysql+hash+update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/05_csv_execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/05_set_inter_weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/06_executemany.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/06_pymongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/06_sorted_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/07_maoyan_mongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/08_tiantang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/09_requests_get.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/10_requests_beu_girl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/11_lianjia_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/films.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-2-爬取网站思路-csv-MongoDB-多级页面数据抓取-requests模块/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/spider-day3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/005493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/00bcbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/01140e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/01930f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/01e4b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/01e4e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/01e4f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0323e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/03c23c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/04_baidu_image_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/073688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/07368d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0736c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/08ff0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/08ffd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/094a34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/094a97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/09aa22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/09aa3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0a4c8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0a4ccd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0e913f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0e9161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0e91c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0f062f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0f066d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0fa28d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/0fa2d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1028bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1028e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/112ae7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/116e7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/116e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/122fe7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/12ef16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/12efa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/16324f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/166111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/16d885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/175c9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/183049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1830d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/18e302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1b244f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1b624c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1b62c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1ce5c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1ce5ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1e46ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f4458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f449d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f449e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f44be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f5833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f5892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/1f7a5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/237687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2376a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2376fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/238d3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/240838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/24a8d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/24fcb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/24fcc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/257e12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/261020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2aa054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2aa533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2aa5e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2aa5fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2ab001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2cc84b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2da6d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2e95f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/2ff8bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/30fd50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/30fdfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/311e57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/330e5a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/330e8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/330efc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/33ae28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/34a42b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/354138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3541c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3568e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/389440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/38945b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/38b6e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/38b6e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/38fe5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/39bd7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3d510e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3d5149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3d564f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/3e5358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/43b5d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/448309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4483d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/44ad27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/452209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4ade75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4ade9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4b0393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4b03c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4b03de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4ca3dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4e5987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/4e74b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/506bbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/506bc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/50b1c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/52d206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/547752.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/54775e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/584b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/584b5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/5cb793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/5cb7fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/607c4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/607c5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/607c95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/60af0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/60af7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/66332a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/6ddb2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/6e3992.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/73e7b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/77e83a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/77e8e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7ae23a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7ae28e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7bf643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7e8901.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7e895e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7e89f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7ff945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7ff9c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/7ff9c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/814d1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/814dd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/865d38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/890bf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8b29e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8bfb2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8bfb82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8de954.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8de993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8f6516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8f65f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/8fc15b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/90eb50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/94272a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/95f721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/97c50f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/99f393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/99f3e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/9bbb1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/a12be7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/a28701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/a287f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/a91133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ad854f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/af99a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/af99b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/af99c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/b17161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/b30915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/bf4e04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/bf4e49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/bf4e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/bf4ed8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c26a09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c26a8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c26af2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c4134b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c413b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c66c06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/c757ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/cbd58d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ce2de7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/cebf3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/cebfd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/cf50f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d0c343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d0c37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d0c3b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d3455e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d345d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d3c9a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d4e652.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d6fab9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d78ed1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d8432c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d99e75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d99e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d99e92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/d9caae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/db3d49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/db3df1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/dc5549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/dd6f7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/dd9854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/dd98d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/dd98fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/de6660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/df7256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/df72fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/e99cc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/eab875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ecc054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ecce0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ecce2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/ed04f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f001bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f2b47c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f3b33b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f3b3c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f3d78f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f43b8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f48640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f4f4b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f57895.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f57897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f8ac5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/f9a122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fa352b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fa35de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fa40c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fa608f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fac7b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fbd91b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fbd952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fc2e0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fc2ee7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fd2c96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fd2ce7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/images/fe7fa0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/lianjia_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/xlml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-3-xpath-lxml-代理参数-反爬/xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/spider-day4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/001." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/02_test_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/03_proxyip_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-4-requests-控制台抓包-反爬机制-正则处理headers和formdata/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/spider-day5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/02_gov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/03_douban_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/05_xiaomi_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/formdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-5-多线程-增量爬取-动态加载网站数据/youdao_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/spider-6-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/02spider_tencent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/03_tencent_thread.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/04_tencent_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/05_xiaomi_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/06_renren_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/07_renren_login3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/08_renren_login?.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/09_json_dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/09_selenium+browser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/10_selenium+girl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/11-element-elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/12-taobao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/13_minzheng_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/17_minzheng_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/baidu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/tencent.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/xiaomi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/yt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/yt1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-6-多线程写入同一文件-cookie模拟登陆-三个池子-解析模块-selenium/yttlj.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/spider-7-.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/01-jd-spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/02_js_spider2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/04_gov_selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/05_updateday06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/06_QQ_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/07_exec_js.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/08_baidu_translate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/shubiao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-7-/translate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/01-urlopen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/02_Request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/02_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_consumer_urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_parse_baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/03_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/04_parse_quote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/04_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/05_baidu2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/05_baidu_tieba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/06_greed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/07_greed2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/08_homework.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/general_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/小彩旗.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第10页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第1页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第2页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第3页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第4页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第5页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第6页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第7页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第8页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day1/第9页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/01_bitmap_active_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/01_group_exe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/02_hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/03_csv_eg1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/03_redis+mysql+hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/04_maoyan_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/04_redis+mysql+hash+update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/05_csv_execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/05_set_inter_weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_executemany.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_pymongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/06_sorted_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/07_maoyan_mongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/08_tiantang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/09_requests_get.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/10_requests_beu_girl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/11_lianjia_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/films.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day2/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/spider-day3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/02_maoyan_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/005493.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/00bcbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01140e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01930f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/01e4f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0323e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/03c23c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/04_baidu_image_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/073688.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/07368d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0736c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/08ff0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/08ffd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/094a34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/094a97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/09aa22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/09aa3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0a4c8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0a4ccd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e913f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e9161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0e91c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0f062f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0f066d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0fa28d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/0fa2d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1028bc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1028e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/112ae7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/116e7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/116e97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/122fe7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/12ef16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/12efa3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/16324f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/166111.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/16d885.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/175c9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/183049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1830d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/18e302.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b244f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b624c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1b62c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1ce5c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1ce5ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1e46ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f4458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f449d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f449e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f44be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f5833.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f5892.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/1f7a5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/237687.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2376a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2376fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/238d3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/240838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24a8d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24fcb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/24fcc2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/257e12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/261020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa533.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa5e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2aa5fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2ab001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2cc84b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2da6d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2e95f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/2ff8bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/30fd50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/30fdfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/311e57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330e5a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330e8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/330efc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/33ae28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/34a42b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/354138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3541c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3568e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/389440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38945b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38b6e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38b6e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/38fe5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/39bd7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d510e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d5149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3d564f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/3e5358.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/43b5d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/448309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4483d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/44ad27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/452209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ade75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ade9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b0393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b03c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4b03de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4ca3dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4e5987.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/4e74b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/506bbe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/506bc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/50b1c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/52d206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/547752.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/54775e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/584b38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/584b5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/5cb793.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/5cb7fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/607c95.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/60af0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/60af7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/66332a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/6ddb2a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/6e3992.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/73e7b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/77e83a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/77e8e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ae23a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ae28e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7bf643.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e8901.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e895e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7e89f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff945.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff9c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/7ff9c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/814d1b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/814dd1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/865d38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/890bf2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8b29e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8bfb2b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8bfb82.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8de954.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8de993.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8f6516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8f65f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/8fc15b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/90eb50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/94272a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/95f721.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/97c50f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/99f393.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/99f3e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/9bbb1c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a12be7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a28701.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a287f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/a91133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ad854f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/af99c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/b17161.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/b30915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/bf4ed8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26a09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26a8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c26af2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c4134b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c413b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c66c06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/c757ec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cbd58d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ce2de7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cebf3c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cebfd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/cf50f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c343.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c37b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d0c3b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d3455e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d345d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d3c9a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d4e652.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d6fab9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d78ed1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d8432c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d99e92.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/d9caae.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/db3d49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/db3df1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dc5549.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd6f7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd9854.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd98d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/dd98fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/de6660.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/df7256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/df72fc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/e99cc7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/eab875.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecc054.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecce0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ecce2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/ed04f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f001bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f2b47c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3b33b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3b3c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f3d78f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f43b8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f48640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f4f4b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f57895.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f57897.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f8ac5e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/f9a122.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa352b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa35de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa40c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fa608f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fac7b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fbd91b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fbd952.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fc2e0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fc2ee7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fd2c96.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fd2ce7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/images/fe7fa0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/lianjia_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/xlml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day3/xpath.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/spider-day4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/001." beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/02_test_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/03_proxyip_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/code_tarena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day4/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/spider-day5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/02_gov.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/03_douban_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/04_attack_yd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/05_xiaomi_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/formdata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider-day5/youdao_spider.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider-7-gov-QQlogin-Baidu翻译-鼠标操作-键盘操作/04_gov_selenium.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider-5-多线程-增量爬取-动态加载网站数据/02_gov.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/01-urlopen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spider-5-多线程-增量爬取-动态加载网站数据/02_gov.py" />
+        <option value="$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_list.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="667" />
+    <option name="height" value="654" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spider-7-gov-QQlogin-Baidu翻译-鼠标操作-键盘操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../数据分析" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="02_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a8a008a-c550-41dd-8e20-2c9bba19e863" name="Default Changelist" comment="" />
+      <created>1567555353613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567555353613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1373" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49865592" visible="true" weight="0.17197925" />
+      <window_info id="DB Browser" order="2" sideWeight="0.5013441" side_tool="true" weight="0.106745735" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spider-7-gov-QQlogin-Baidu翻译-鼠标操作-键盘操作/04_gov_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider-5-多线程-增量爬取-动态加载网站数据/02_gov.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/01-urlopen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider-1-爬虫请求模块-URL地址编码模块-正则解析模块re/02_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
